@@ -1,6 +1,8 @@
 # Medium-Writing_earning-analysis
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/satan87/Medium-Writing_earning-analysis/master)
 
 Jupyter Notebook to analize Medium earning.
+
 
 You need to update your data
 #### TAX RATE
